@@ -11,17 +11,17 @@ Título profesional: Científico de Datos
 
 Sección de habilidades: Habilidades como Científico de Datos 
 
-Minería de datos  
-Limpieza de datos
-Creación y manipulación de DataFrames
-Filtrados de datos
-Vizualización de datos
-Análisis de datos
-Segmentación con el uso de KMeans
-Machine learning
-Creación de líneas de tiempo, modelos ARIMA
-Regresión logística
-Creación de base de datos y consultas SQL
+Minería de datos,  
+Limpieza de datos,
+Creación y manipulación de DataFrames,
+Filtrados de datos,
+Vizualización de datos,
+Análisis de datos,
+Segmentación con el uso de KMeans,
+Machine learning,
+Creación de líneas de tiempo, modelos ARIMA,
+Regresión logística,
+Creación de base de datos y consultas SQL,
 Limpieza de datos, filtrado y creación de Dashboards con PowerBi
 
 Proyectos: 
@@ -36,8 +36,8 @@ independiente, proyectos como "freelance" y trabajé en la empresa "Publidad Vir
 
 Educación: 
 Tecnológico de Monterrrey: Licenciado en Animación y Arte Digital 
-Animation Mentor - Animation Basics, Body Mechanics, Adv Body Mechanics
-Animation Stellar - Mecánicas Avanzadas - Pantomima
+Animation Mentor: Animation Basics, Body Mechanics, Adv Body Mechanics
+Animation Stellar - Mecánicas Avanzadas, Pantomima
 EBAC - Curso - Científico de datos 
 
 Lenguajes: 
@@ -46,15 +46,15 @@ Python, HTML y CSS
 
 Sofware: 
 
-PowerBI
-SQL Server Management Studio
-Audodesk - Maya 
-Blender
-After Effects
-Photoshop 
-Krita
-Filmora
-git
-Github
+PowerBI,
+SQL Server, Management Studio,
+Audodesk - Maya, 
+Blender,
+After Effects,
+Photoshop, 
+Krita,
+Filmora,
+git,
+Github,
 Shotgun
 
