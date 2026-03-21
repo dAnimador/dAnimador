@@ -44,7 +44,7 @@ Lenguajes:
 
 Python, HTML y CSS
 
-Sofware: 
+Software: 
 
 PowerBI,
 SQL Server, Management Studio,
