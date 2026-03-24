@@ -1,4 +1,4 @@
-<h1> ¡Hola, soy Daniel <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<h1> ¡Hola, soy Daniel! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 
 
 <p>
