@@ -1,4 +1,4 @@
-<h1> ¡Hola, soy Daniel! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<h1> ¡Hi, I´m Daniel! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 
 
 <p>
@@ -7,57 +7,70 @@ Soy una persona entuasiasta y muy apasionada en todo lo que hago, disfruto apren
 Es asombroso todo lo que puede aprender con el uso del "Big Data" 
 
 
-- 🔭 Actualmente estoy en busqueda de trabajo como Científico de Datos
-- 🌱 Siempre estoy en busca de crecimiento y mejorar mis habilidades
-- 👯 Estoy busca de colaborar en proyectos de ciencia de datos y tecnología
+- 🔭 I am currently looking for a job as a data scientist
+- 🌱 I'm always looking to grow and improve my skills
+- 👯 I am looking to collaborate on data science and technology projects
 
 </p>
 
 ---
 
-Título profesional: Científico de Datos
+Job Title: Data Scientist
 
-Sección de habilidades: Habilidades como Científico de Datos 
+Skills Section: Data Scientist Skills
 
-Minería de datos,  
-Limpieza de datos,
-Creación y manipulación de DataFrames,
-Filtrados de datos,
-Vizualización de datos,
-Análisis de datos,
-Segmentación con el uso de KMeans,
+Data mining,  
+Data cleaning,
+Creating and manipulating DataFrames,
+Data filtering,
+Data visualization,
+Data analysis,
+Segmentation using K-means,
 Machine learning,
-Creación de líneas de tiempo, modelos ARIMA,
-Regresión logística,
-Creación de base de datos y consultas SQL,
-Limpieza de datos, filtrado y creación de Dashboards con PowerBi
+Timeline creation, ARIMA models,
+Logistic regression,
+Database creation and SQL queries,
+Data cleaning, filtering, and dashboard creation with Power BI
 
 ---
 
-### Proyectos: 
+### Projects: 
 
-Reckitt - Durante el curso de cietífico de datos trabaje con información de la empresa, e hice limpieza de datos, escala de datos, creación y manipulación
-de "Dataframes", segmentación, regresión logística, machine learning, visualización de datos usanto librerias de Python, como: Matplootlib, Seaborn. 
-Además de crear bases de datos y consultas utilizando SQL Server Management Studio.
+Reckitt - During the data science course, I worked with company data and performed data cleaning, data scaling, creation and manipulation
+of “DataFrames,” segmentation, logistic regression, machine learning, and data visualization using Python libraries such as Matplotlib and Seaborn. 
+I also created databases and queries using SQL Server Management Studio.
 
-Experiencia profesional: Como animador 3D, en participado en 3 películas en México: Ana y Bruno, Kilomtro 31 sin retorno y Escuela de miedo,
-además de 2 cortometrajes: Eyes of Fire - A Merry Modz Tale y El extraño caso del hombre bala. Además de algunos proyectos de publicidad de manera
-independiente, proyectos como "freelance" y trabajé en la empresa "Publidad Virtual" en donde dos de mis virtuales aparecieron en el Super Bowl.
+Professional Experience: As a 3D animator, I have worked on three films in Mexico: Ana y Bruno, Kilómetro 31 sin retorno, and Escuela de miedo,
+as well as two short films: Eyes of Fire - A Merry Modz Tale and El extraño caso del hombre bala. I have also worked on several independent advertising projects,
+freelance projects, and worked at the company “Publidad Virtual,” where two of my virtual characters appeared in the Super Bowl.
 
-### Educación: 
-Tecnológico de Monterrrey: Licenciado en Animación y Arte Digital 
-Animation Mentor: Animation Basics, Body Mechanics, Adv Body Mechanics
-Animation Stellar - Mecánicas Avanzadas, Pantomima
-EBAC - Curso - Científico de datos 
+### Education: 
+Tecnológico de Monterrey: Bachelor’s Degree in Animation and Digital Art 
+Animation Mentor: Animation Basics, Body Mechanics, Advanced Body Mechanics
+Animation Stellar - Advanced Mechanics, Pantomime
+EBAC - Course - Data Scientist 
 
 ---
 
 <!--iconos inicio-->  
-<h3 align="left">Languages and Tools:</h3>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/ssms/install/install" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" alt="ssms" width="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40"/> </a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyternb" width="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40"/> </a>
-</div>
-<!--iconos fin-->
+<h3 align="left">Languages and Tools :</h3>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40"/></td>
+        
+    
+    
+  </tr>
+</table>
 </br>
 
 ---
