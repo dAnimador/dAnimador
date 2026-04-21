@@ -50,7 +50,7 @@ Segmentation using K-means / Segmentación utilizando K-means </br>
 Machine learning </br>
 Timeline creation, ARIMA models / Series de tiempo, modelos ARIMA </br>
 Logistic regression / Regresión Logística </br>
-Database creation and SQL queries / Creación de base de datos / Querys </br>
+Database creation and SQL queries / Creación de base de datos, Querys </br>
 Data cleaning, filtering, and dashboard creation with Power BI / Limpieza de datos, filtrado y creación de Dashboards </br>
 
 ---
