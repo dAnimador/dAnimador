@@ -60,6 +60,8 @@ Reckitt - During the data science course, I worked with company data and perform
 of “DataFrames,” segmentation, logistic regression, machine learning, and data visualization using Python libraries such as Matplotlib and Seaborn. 
 I also created databases and queries using SQL Server Management Studio.
 
+See all my projects <a href ="https://github.com/dAnimador/cientifico-d-datos.git">HERE<a/>
+
 ### Contribution snake:
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
